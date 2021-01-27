@@ -1,0 +1,3 @@
+id,main_category,category,project_id,p_name,type,second_type,start_time,end_time,funds,character,ranking,status,p_institute,t_id
+1,1,2,18X1000xxxxx,p_name_a,xxx,X10xxx,2018-07-01,2021-06-30,20,1,1,1,institute_a,id_a
+2,1,3,18H1000xxxxx,p_name_b,xxx,None,2017-10-19,2018-10-17,20,1,1,1,institute_b,id_b

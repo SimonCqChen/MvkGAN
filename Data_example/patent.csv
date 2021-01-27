@@ -1,0 +1,3 @@
+patent_id,school_id,certificate,software_name,abbrev,complete_time,first_publish_time,serial_no,department,t_id,name
+39xx,nan,No.00xxxxx,name_a,nan,20xx.xx.xx,20xx.xx.xx,serial_a,department_a,06xxx,worker_name_a
+39xx,nan,No.00xxxxx,name_b,abb_b,20xx.xx.xx,20xx.xx.xx,serial_b,department_b,08xxx,worker_name_b
